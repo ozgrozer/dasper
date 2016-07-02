@@ -5,3 +5,5 @@ layout: article
 draft: true
 ---
 It's awesome.
+
+![]({{ site.baseurl }}/)
