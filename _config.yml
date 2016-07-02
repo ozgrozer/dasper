@@ -1,10 +1,10 @@
 # Website details
-name: ""
-description: ""
-email: ""
-author: ""
-lang: ""
-locale: ""
+name: Dasper
+description: Just a demo
+email: hello@ozgrozer.com
+author: ozgrozer
+lang: en
+locale: tr_TR
 
 # Jekyll
 paginate: 10
