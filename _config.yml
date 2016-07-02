@@ -8,14 +8,14 @@ locale: ""
 
 # Jekyll
 paginate: 10
-highlighter: ""
+highlighter: rouge
 markdown: kramdown
 gems: [jekyll-paginate]
 timezone: Europe/Istanbul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://domain.com
+baseurl: http://ozgrozer.github.io/dasper
 
 # Includes
 addthisId: ""
