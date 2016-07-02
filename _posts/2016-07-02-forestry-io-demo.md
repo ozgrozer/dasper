@@ -5,4 +5,4 @@ layout: article
 ---
 It's awesome.
 
-![]({{ site.baseurl }}/)
+![](http://ozgrozer.github.io/dasper/contents/images/2016/07/Screen%20Shot%202016-07-02%20at%2017.47.38.jpeg)
