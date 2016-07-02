@@ -1,0 +1,38 @@
+# Website details
+name: ""
+description: ""
+email: ""
+author: ""
+lang: ""
+locale: ""
+
+# Jekyll
+paginate: 10
+highlighter: ""
+markdown: kramdown
+gems: [jekyll-paginate]
+timezone: Europe/Istanbul
+paginateLabel: page
+paginate_path: "page/:num"
+permalink: /:categories/:year/:month/:day/:title
+baseurl: http://domain.com
+
+# Includes
+addthisId: ""
+disqusUsername: ""
+googleAnalyticsId: ""
+
+# Search engine verifications
+bing: ""
+yandex: ""
+google: ""
+
+#Sitemap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/404.html"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "daily"
+    priority_name: "1.00"
