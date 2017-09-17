@@ -427,8 +427,8 @@ main {
 
 			}/* .h1 */
 
-			/* Title, aspect ratio container, paragraph */
-			h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, blockquote, div, p, pre, ol, ul, .ar-container, >.max-height {
+			/* Title, aspect ratio container, paragraph, lists */
+			h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, blockquote, div, p, pre, .ar-container, >.max-height, >section >ol, >section >ul {
 
 				/* Mobile */
 				@media(max-width:$mobile-max) {
@@ -544,6 +544,16 @@ main {
 			>section, >section p, >section a {
 				color: $paragraphTextColor;
 			}/* >section, >section p, >section a */
+
+			/* Lists */
+			>section >ol, >section >ul {
+
+				/* Nested lists */
+				ol, ul {
+					margin-left: 20px;
+				}/* ol, ul */
+
+			}/* ol, ul */
 
 			/* Paragraph and inside elements */
 			>section, >section *:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
