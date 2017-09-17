@@ -2,12 +2,12 @@
 layout: article
 title: First Post
 date: 2016-07-02 15:33:00+0200
-coverPhoto: http://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg
+coverPhoto: https://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg
 ---
 
 Cupcake ipsum dolor sit amet cake. Cotton candy candy canes jujubes. Powder toffee I love sugar plum sweet roll candy cookie powder wafer. Tiramisu tootsie roll I love sweet chocolate cake cookie. Fruitcake I love gummies cheesecake sugar plum. Candy candy candy jelly jelly-o.
 
-![](http://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg)
+![](https://ozgrozer.github.io/dasper/contents/images/2016/07/jekyll.jpg)
 
 Carrot cake brownie jujubes gingerbread liquorice pastry I love croissant. I love bonbon powder chocolate cake apple pie dragée. Apple pie donut I love topping chocolate bar liquorice cotton candy liquorice. Marzipan apple pie sweet roll halvah oat cake I love pastry chocolate bar. Apple pie I love cookie brownie powder. Fruitcake chocolate bar I love jelly jelly carrot cake. Jelly beans toffee tart halvah icing macaroon gingerbread croissant. Jelly beans dragée cupcake cotton candy jelly dessert liquorice carrot cake.
 
