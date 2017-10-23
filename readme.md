@@ -16,5 +16,10 @@ Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://gh
 - Disqus comments
 - Google Analytics tracking
 
+## Usage
+1. Fork the repo.
+2. Change your `_config.yml` settings.
+3. You're ready to go.
+
 ## Copyright & License
 Copyright (c) 2016 - Released under the MIT License.
