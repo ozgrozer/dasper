@@ -1,0 +1,32 @@
+{
+  "name": "dasper",
+  "version": "1.0.0",
+  "description": "A Jekyll theme.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ozgrozer@github.com/ozgrozer/dasper.git"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "dasper"
+  ],
+  "author": "ozgrozer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozgrozer/dasper/issues"
+  },
+  "homepage": "https://github.com/ozgrozer/dasper#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
