@@ -2,7 +2,6 @@
 Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/).
 
 ## Live Demo
-- [ozgrozer.com](https://ozgrozer.com)
 - [ozgrozer.github.io/dasper](https://ozgrozer.github.io/dasper)
 
 ## Includes
