@@ -17,8 +17,9 @@ Dasper is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://gh
 
 ## Usage
 1. Fork the repo.
-2. Change your `_config.yml` settings.
-3. You're ready to go on https://username.github.io/dasper.
+2. Change repo name from "dasper" to "username.github.io".
+3. Update your informations in the `_config.yml` file.
+4. You're ready to go on https://username.github.io/.
 
 ## Copyright & License
 Copyright (c) 2016 - Released under the MIT License.
